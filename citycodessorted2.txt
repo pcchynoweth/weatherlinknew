@@ -41,11 +41,11 @@ on-102 Bancroft, ON
 ab-49 Banff, AB
 ab-2 Barrhead, AB
 on-151 Barrie, ON
-on-133 Barry&#39;s Bay, ON
+on-133 Barry's Bay, ON
 nb-22 Bas-Caraquet, NB
 nb-28 Bathurst, NB
 nl-43 Bay Roberts, NL
-qc-50 B&eacute;cancour, QC
+qc-50 Bécancour, QC
 qc-48 Beauceville, QC
 qc-49 Beauharnois, QC
 yt-15 Beaver Creek, YT
@@ -55,7 +55,7 @@ bc-94 Bella Bella, BC
 bc-18 Bella Coola, BC
 on-3 Belleville, ON
 mb-54 Berens River, MB
-qc-51 Berni&egrave;res, QC
+qc-51 Bernières, QC
 qc-25 Berthierville, QC
 sk-2 Biggar, SK
 on-124 Big Trout Lake, ON
@@ -86,7 +86,7 @@ ab-58 Brooks, AB
 nl-4 Buchans, NL
 sk-39 Buffalo Narrows, SK
 nl-31 Burgeo, NL
-on-31 Burk&#39;s Falls, ON
+on-31 Burk's Falls, ON
 on-95 Burlington, ON
 bc-43 Burns Lake, BC
 yt-7 Burwash Landing, YT
@@ -128,7 +128,7 @@ qc-119 Charlevoix, QC
 nb-30 Charlo, NB
 pe-5 Charlottetown, PE
 on-11 Chatham-Kent, ON
-ns-38 Ch&eacute;ticamp, NS
+ns-38 Chéticamp, NS
 qc-59 Chelsea, QC
 nu-17 Chesterfield, NU
 bc-23 Chetwynd, BC
@@ -166,7 +166,7 @@ ab-17 Crowsnest, AB
 bc-95 Cummins Lakes (Provincial Park), BC
 sk-29 Cypress Hills (Provincial Park), SK
 nb-26 Dalhousie, NB
-nl-33 Daniel&#39;s Harbour, NL
+nl-33 Daniel's Harbour, NL
 mb-58 Dauphin, MB
 bc-25 Dawson Creek, BC
 yt-6 Dawson, YT
@@ -200,7 +200,7 @@ sk-45 Eastend, SK
 pe-6 East Point, PE
 ns-7 Economy, NS
 ab-50 Edmonton, AB
-ab-71 Edmonton (Int&#39;l Aprt), AB
+ab-71 Edmonton (Int'l Aprt), AB
 nb-32 Edmundston, NB
 ab-72 Edson, AB
 nt-14 Ekati (Lac de Gras), NT
@@ -236,7 +236,7 @@ ab-20 Fort McMurray, AB
 nt-10 Fort McPherson, NT
 bc-83 Fort Nelson, BC
 nt-27 Fort Providence, NT
-sk-5 Fort Qu&#39;Appelle, SK
+sk-5 Fort Qu'Appelle, SK
 nt-3 Fort Resolution, NT
 on-171 Fort Severn, ON
 nt-4 Fort Simpson, NT
@@ -249,8 +249,8 @@ nt-18 Gameti, NT
 on-90 Gananoque, ON
 nl-16 Gander, NL
 ab-65 Garden Creek, AB
-qc-101 Gasp&eacute;, QC
-qc-94 Gasp&eacute;sie (Parc national), QC
+qc-101 Gaspé, QC
+qc-94 Gaspésie (Parc national), QC
 qc-126 Gatineau, QC
 bc-1 Gibsons, BC
 mb-64 Gillam, MB
@@ -263,14 +263,14 @@ bc-34 Golden, BC
 bc-32 Gonzales Point, BC
 bc-9 Good Hope Lake, BC
 on-144 Gore Bay, ON
-qc-A1 Gouin (R&eacute;servoir), QC
+qc-A1 Gouin (Réservoir), QC
 qc-5 Granby, QC
 nl-5 Grand Bank, NL
 mb-9 Grand Beach, MB
-ns-32 Grand &Eacute;tang, NS
+ns-32 Grand Étang, NS
 ab-45 Grande Cache, AB
 ab-31 Grande Prairie, AB
-qc-169 Grande-Vall&eacute;e, QC
+qc-169 Grande-Vallée, QC
 nb-6 Grand Falls, NB
 nl-6 Grand Falls-Windsor, NL
 bc-39 Grand Forks, BC
@@ -320,7 +320,7 @@ sk-6 Humboldt, SK
 mb-50 Hunters Point, MB
 qc-68 Huntingdon, QC
 on-88 Huntsville, ON
-qc-103 &Icirc;les-de-la-Madeleine, QC
+qc-103 Îles-de-la-Madeleine, QC
 nu-23 Igloolik, NU
 on-156 Ignace, ON
 sk-43 Indian Head, SK
@@ -367,23 +367,23 @@ nu-13 Kugaaruk, NU
 nu-16 Kugluktuk, NU
 qc-150 Kuujjuaq, QC
 qc-105 Kuujjuarapik, QC
-nl-45 L&#39;Anse-au-Loup, NL
-qc-156 L&#39;Assomption, QC
-qc-77 L&#39;Islet, QC
+nl-45 L'Anse-au-Loup, NL
+qc-156 L'Assomption, QC
+qc-77 L'Islet, QC
 nl-20 Labrador City, NL
 qc-14 Lachute, QC
 ab-32 Lac La Biche, AB
-qc-72 Lac-M&eacute;gantic, QC
+qc-72 Lac-Mégantic, QC
 ab-39 Lacombe, AB
 qc-99 Lac Raglan, QC
 qc-73 Lac-Saint-Jean, QC
 qc-100 La Grande-Quatre, QC
-qc-158 La Grande Rivi&egrave;re, QC
+qc-158 La Grande Rivière, QC
 on-45 Lake Superior (Provincial Park), ON
 sk-13 La Loche, SK
 qc-11 La Malbaie, QC
 on-46 Lambton Shores, ON
-qc-74 Lanaudi&egrave;re, QC
+qc-74 Lanaudière, QC
 bc-100 Langley, BC
 on-87 Lansdowne House, ON
 qc-71 La Prairie, QC
@@ -392,10 +392,10 @@ qc-45 La Sarre, QC
 nl-22 La Scie, NL
 sk-35 Last Mountain Lake (Sanctuary), SK
 qc-154 La Tuque, QC
-qc-113 Laurentides (R&eacute;serve fauni>, QC
+qc-113 Laurentides (Réserve fauni>, QC
 qc-76 Laval, QC
-qc-30 La V&eacute;rendrye (R&eacute;serve), QC
-qc-78 L&eacute;vis, QC
+qc-30 La Vérendrye (Réserve), QC
+qc-78 Lévis, QC
 sk-52 Leader, SK
 mb-22 Leaf Rapids, MB
 on-23 Leamington, ON
@@ -431,7 +431,7 @@ on-108 Marathon, ON
 nl-26 Marble Mountain, NL
 qc-84 Marieville, QC
 on-85 Markham, ON
-nl-29 Mary&#39;s Harbour, NL
+nl-29 Mary's Harbour, NL
 nl-3 Marystown, NL
 qc-85 Mascouche, QC
 bc-56 Masset, BC
@@ -462,7 +462,7 @@ nb-36 Moncton, NB
 qc-127 Mont-Joli, QC
 qc-47 Mont-Laurier, QC
 qc-124 Montmagny, QC
-qc-147 Montr&eacute;al, QC
+qc-147 Montréal, QC
 on-163 Montreal River Harbour, ON
 qc-92 Mont Saint-Hilaire, QC
 qc-167 Mont-Tremblant, QC
@@ -516,7 +516,7 @@ on-13 Orillia, ON
 nb-11 Oromocto, NB
 on-117 Oshawa, ON
 bc-69 Osoyoos, BC
-on-118 Ottawa (Kanata - Orl&eacute;ans), ON
+on-118 Ottawa (Kanata - Orléans), ON
 on-52 Ottawa (Richmond - Metcalfe), ON
 qc-93 Otterburn Park, QC
 sk-37 Outlook, SK
@@ -536,7 +536,7 @@ sk-55 Pelican Narrows, SK
 bc-16 Pemberton, BC
 on-131 Pembroke, ON
 bc-84 Penticton, BC
-qc-18 Perc&eacute;, QC
+qc-18 Percé, QC
 on-112 Petawawa, ON
 on-121 Peterborough, ON
 on-54 Pickering, ON
@@ -549,7 +549,7 @@ qc-96 Pincourt, QC
 mb-4 Pine Falls, MB
 bc-35 Pitt Meadows, BC
 nl-30 Placentia, NL
-qc-20 Pointe-&agrave;-la-Croix, QC
+qc-20 Pointe-à-la-Croix, QC
 nb-34 Point Escuminac, NB
 nb-33 Point Lepreau, NB
 nu-25 Pond Inlet, NU
@@ -567,7 +567,7 @@ ns-26 Port Hawkesbury, NS
 qc-142 Port-Menier, QC
 on-149 Port Perry, ON
 bc-58 Powell River, BC
-qc-98 Pr&eacute;vost, QC
+qc-98 Prévost, QC
 sk-27 Prince Albert, SK
 on-27 Prince Edward (Picton), ON
 bc-79 Prince George, BC
@@ -579,7 +579,7 @@ qc-40 Puvirnituq, QC
 nu-5 Qikiqtarjuaq, NU
 bc-98 Qualicum Beach, BC
 qc-106 Quaqtaq, QC
-qc-133 Qu&eacute;bec, QC
+qc-133 Québec, QC
 bc-64 Quesnel, BC
 on-57 Quinte West, ON
 nb-12 Quispamsis, NB
@@ -602,7 +602,7 @@ on-59 Richmond Hill, ON
 qc-A2 Rigaud, QC
 nl-46 Rigolet, NL
 qc-138 Rimouski, QC
-qc-108 Rivi&egrave;re-du-Loup, QC
+qc-108 Rivière-du-Loup, QC
 qc-134 Roberval, QC
 mb-32 Roblin, MB
 bc-10 Rock Creek, BC
@@ -613,7 +613,7 @@ ab-16 Rocky Mountain House, AB
 on-172 Rodney, ON
 nb-14 Rogersville, NB
 on-141 Rondeau (Provincial Park), ON
-qc-A3 Rosem&egrave;re, QC
+qc-A3 Rosemère, QC
 sk-23 Rosetown, SK
 yt-8 Ross River, YT
 sk-1 Rosthern, SK
@@ -632,27 +632,27 @@ qc-A9 Sainte-Anne-Des-Plaines, QC
 qc-B0 Sainte-Catherine, QC
 qc-B1 Sainte-Julie, QC
 qc-B2 Sainte-Sophie, QC
-qc-B3 Sainte-Th&eacute;r&egrave;se, QC
+qc-B3 Sainte-Thérèse, QC
 qc-B4 Saint-Eustache, QC
-qc-B5 Saint-F&eacute;licien, QC
+qc-B5 Saint-Félicien, QC
 qc-B6 Saint-Georges, QC
 qc-22 Saint-Hyacinthe, QC
-qc-13 Saint-J&eacute;r&ocirc;me, QC
+qc-13 Saint-Jérôme, QC
 qc-28 Saint-Jean-sur-Richelieu, QC
 nb-23 Saint John, NB
 qc-B7 Saint-Lazare, QC
 qc-B8 Saint-Lin-Laurentides, QC
 qc-B9 Saint-Luc, QC
 qc-C0 Saint-Michel-des-Saints, QC
-qc-C1 Saint-Nic&eacute;phore, QC
+qc-C1 Saint-Nicéphore, QC
 nb-16 Saint-Quentin, NB
-qc-C2 Saint-R&eacute;mi, QC
+qc-C2 Saint-Rémi, QC
 qc-C3 Saint-Sauveur, QC
-qc-C4 Saint-Timoth&eacute;e, QC
+qc-C4 Saint-Timothée, QC
 qc-143 Salaberry-de-Valleyfield, QC
 qc-128 Salluit, QC
 bc-51 Salmon Arm, BC
-nt-15 Sambaa K&#39;e, NT
+nt-15 Sambaa K'e, NT
 bc-88 Sandspit, BC
 on-129 Sandy Lake, ON
 nu-29 Sanikiluaq, NU
@@ -664,7 +664,7 @@ on-134 Savant Lake, ON
 qc-115 Schefferville, QC
 sk-26 Scott, SK
 bc-3 Sechelt, BC
-qc-141 Sept-&Icirc;les, QC
+qc-141 Sept-Îles, QC
 mb-39 Shamattawa, MB
 on-61 Sharbot Lake, ON
 sk-11 Shaunavon, SK
@@ -691,7 +691,7 @@ bc-52 Sparwood, BC
 sk-25 Spiritwood, SK
 mb-23 Sprague, MB
 bc-50 Squamish, BC
-nl-8 St. Alban&#39;s, NL
+nl-8 St. Alban's, NL
 nl-37 St. Anthony, NL
 ab-44 Stavely, AB
 on-107 St. Catharines, ON
@@ -700,12 +700,12 @@ nl-27 Stephenville, NL
 ab-5 Stettler, AB
 bc-73 Stewart, BC
 on-115 Stirling, ON
-nl-24 St. John&#39;s, NL
+nl-24 St. John's, NL
 nl-36 St. Lawrence, NL
 nb-24 St. Leonard, NB
 ab-22 Stony Plain, AB
 sk-36 Stony Rapids, SK
-ns-12 St. Peter&#39;s, NS
+ns-12 St. Peter's, NS
 pe-4 St. Peters Bay, PE
 on-116 Stratford, ON
 ab-6 Strathmore, AB
@@ -730,7 +730,7 @@ nu-8 Taloyoak, NU
 qc-145 Tasiujaq, QC
 ns-14 Tatamagouche, NS
 bc-60 Tatlayoko Lake, BC
-qc-139 T&eacute;miscamingue, QC
+qc-139 Témiscamingue, QC
 qc-35 Temiscouata, QC
 on-22 Temiskaming Shores, ON
 on-123 Terrace Bay, ON
@@ -757,7 +757,7 @@ qc-C9 Tracy, QC
 bc-71 Trail, BC
 on-126 Trenton, ON
 qc-24 Trois-Pistoles, QC
-qc-130 Trois-Rivi&egrave;res, QC
+qc-130 Trois-Rivières, QC
 ns-25 Truro, NS
 nt-20 Tuktoyaktuk, NT
 nt-11 Tulita, NT
@@ -768,10 +768,10 @@ nt-7 Ulukhaktok, NT
 qc-122 Umiujaq, QC
 on-154 Upsala, ON
 sk-44 Uranium City, SK
-qc-149 Val-d&#39;Or, QC
+qc-149 Val-d'Or, QC
 qc-42 Val-des-Monts, QC
 bc-13 Valemount, BC
-qc-D0 Vall&eacute;e de la Matap&eacute, QC
+qc-D0 Vallée de la Matapé, QC
 sk-28 Val Marie, SK
 bc-74 Vancouver, BC
 bc-44 Vanderhoof, BC
